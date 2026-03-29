@@ -1,0 +1,45 @@
+[submodule "angular-ssr"]
+	path = angular-ssr
+	url = git@github.com:GetWebstack-public/angular-ssr.git
+[submodule "astro"]
+	path = astro
+	url = git@github.com:GetWebstack-public/astro.git
+[submodule "gatsby"]
+	path = gatsby
+	url = git@github.com:GetWebstack-public/gatsby.git
+[submodule "nextjs-app-router"]
+	path = nextjs-app-router
+	url = git@github.com:GetWebstack-public/nextjs-app-router.git
+[submodule "nextjs-pages"]
+	path = nextjs-pages
+	url = git@github.com:GetWebstack-public/nextjs-pages.git
+[submodule "nuxt3"]
+	path = nuxt3
+	url = git@github.com:GetWebstack-public/nuxt3.git
+[submodule "preact"]
+	path = preact
+	url = git@github.com:GetWebstack-public/preact.git
+[submodule "qwik"]
+	path = qwik
+	url = git@github.com:GetWebstack-public/qwik.git
+[submodule "react-cra"]
+	path = react-cra
+	url = git@github.com:GetWebstack-public/react-cra.git
+[submodule "react-vite"]
+	path = react-vite
+	url = git@github.com:GetWebstack-public/react-vite.git
+[submodule "remix"]
+	path = remix
+	url = git@github.com:GetWebstack-public/remix.git
+[submodule "solid-vite"]
+	path = solid-vite
+	url = git@github.com:GetWebstack-public/solid-vite.git
+[submodule "svelte-standalone"]
+	path = svelte-standalone
+	url = git@github.com:GetWebstack-public/svelte-standalone.git
+[submodule "sveltekit"]
+	path = sveltekit
+	url = git@github.com:GetWebstack-public/sveltekit.git
+[submodule "vue3-vite"]
+	path = vue3-vite
+	url = git@github.com:GetWebstack-public/vue3-vite.git
